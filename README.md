@@ -144,3 +144,54 @@ Here’s a structured day-wise routine to learn Java and Spring Boot. Each day f
 
 ---
 
+
+Here’s a **detailed 2-month roadmap** to become an industry-ready Java and Spring Boot developer. Each day is structured with a clear syllabus, resources, and checkboxes to track your progress. At the end, three projects with timelines are provided.
+
+---
+
+### **Month 1: Core Java Mastery**
+
+| **Day** | **Topics**                                                                                       | **Resources**                                                                                                                                                       | **Complete** |
+|---------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| **1**   | Java Installation, IDE Setup, Hello World                                                        | - [Java Installation](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) <br> - [YouTube: Setup](https://youtu.be/2XgF5-eP6aI)                   | [ ]          |
+| **2**   | Variables, Data Types, Operators                                                                 | - [Java Basics - W3Schools](https://www.w3schools.com/java/java_variables.asp) <br> - [YouTube: Variables](https://youtu.be/yRpLlJmRo2w)                            | [ ]          |
+| **3**   | Control Flow (if-else, switch, loops)                                                            | - [Control Flow - Baeldung](https://www.baeldung.com/java-control-structures) <br> - [YouTube: Loops](https://youtu.be/2Tm6m5Tn4dM)                                 | [ ]          |
+| **4**   | Functions, Arrays                                                                                | - [Functions - GeeksforGeeks](https://www.geeksforgeeks.org/methods-in-java/) <br> - [YouTube: Arrays](https://youtu.be/tFYxBtFV1B8)                                | [ ]          |
+| **5**   | Object-Oriented Programming (OOP)                                                                | - [OOP in Java - Baeldung](https://www.baeldung.com/java-oop-basics) <br> - [YouTube: OOP Concepts](https://youtu.be/eR9ltW1EL9s)                                   | [ ]          |
+| **6**   | OOP Deep Dive: Encapsulation, Inheritance, Polymorphism, Abstraction                             | - [GeeksforGeeks: OOP Concepts](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/) <br> - [YouTube: Deep Dive](https://youtu.be/u3HhAayqhnk) | [ ]          |
+| **7**   | Java Collections: List, Set, Map                                                                 | - [Java Collections - Oracle Docs](https://docs.oracle.com/javase/tutorial/collections/intro/index.html) <br> - [YouTube: Java Collections](https://youtu.be/fRwB8LLYPOQ) | [ ]          |
+| **8**   | Exception Handling                                                                               | - [Java Exceptions - Baeldung](https://www.baeldung.com/java-exceptions) <br> - [YouTube: Exception Handling](https://youtu.be/K0Ruz6JZoQ4)                         | [ ]          |
+| **9**   | File Handling: Java I/O                                                                          | - [Java I/O - GeeksforGeeks](https://www.geeksforgeeks.org/file-handling-in-java-using-filewriter-and-filereader/) <br> - [YouTube: File Handling](https://youtu.be/3hgEIqFcsHo) | [ ]          |
+| **10**  | Multithreading Basics                                                                            | - [Java Threads - GeeksforGeeks](https://www.geeksforgeeks.org/multithreading-in-java/) <br> - [YouTube: Multithreading](https://youtu.be/d2LVzWeH0Qo)              | [ ]          |
+| **11**  | Lambda Expressions, Functional Interfaces                                                        | - [Lambda - Baeldung](https://www.baeldung.com/java-8-lambda-expressions) <br> - [YouTube: Lambda Expressions](https://youtu.be/Q6AgyNbfl4Y)                        | [ ]          |
+| **12**  | Streams API, Optional Class                                                                      | - [Stream API - Baeldung](https://www.baeldung.com/java-8-streams) <br> - [YouTube: Streams](https://youtu.be/t1-YZ6bF-g0)                                          | [ ]          |
+| **13**  | Practice: Build a small Java application (e.g., Calculator, Library System)                      | - Use knowledge of OOP, Collections, and Exception Handling.                                                                                                       | [ ]          |
+
+---
+
+### **Month 2: Spring Boot and Microservices**
+
+| **Day** | **Topics**                                                                                       | **Resources**                                                                                                                                                       | **Complete** |
+|---------|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| **14**  | Introduction to Spring and Spring Boot                                                           | - [Spring Boot - Baeldung](https://www.baeldung.com/spring-boot) <br> - [YouTube: Spring Boot](https://youtu.be/35EQXmHKZYs)                                        | [ ]          |
+| **15**  | Dependency Injection (DI), Inversion of Control (IoC)                                            | - [Spring DI - Spring.io](https://spring.io/guides/gs/handling-form-submission/) <br> - [YouTube: DI and IoC](https://youtu.be/ggO9I5txueg)                         | [ ]          |
+| **16**  | Building RESTful APIs with Spring Boot                                                           | - [Spring REST API - Baeldung](https://www.baeldung.com/rest-with-spring-series) <br> - [YouTube: Spring Boot REST API](https://youtu.be/5zs62JQgNzM)               | [ ]          |
+| **17**  | Spring Boot Data Access: JPA, Hibernate                                                          | - [Spring Data JPA - Baeldung](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa) <br> - [YouTube: JPA Tutorial](https://youtu.be/2Cq5_3b_9b4)    | [ ]          |
+| **18**  | Testing Spring Boot Apps (JUnit, Mockito)                                                        | - [Testing - Baeldung](https://www.baeldung.com/spring-boot-testing) <br> - [YouTube: Testing in Spring Boot](https://youtu.be/CaUuH2nG8Qs)                         | [ ]          |
+| **19**  | Spring Security: Authentication and Authorization                                                | - [Spring Security - Baeldung](https://www.baeldung.com/spring-security-authentication-and-registration) <br> - [YouTube: Spring Security](https://youtu.be/2mRqnSwjc7A) | [ ]          |
+| **20**  | Building Microservices: Service Discovery (Eureka), API Gateway                                  | - [Spring Cloud - Baeldung](https://www.baeldung.com/spring-cloud) <br> - [YouTube: Microservices with Spring](https://youtu.be/d56mG7DezGs)                        | [ ]          |
+| **21**  | Dockerizing a Spring Boot App                                                                    | - [Docker - Spring.io](https://spring.io/guides/topicals/spring-boot-docker/) <br> - [YouTube: Docker Basics](https://youtu.be/3c-iBn73dDE)                         | [ ]          |
+| **22**  | Advanced Topics: Actuator, Monitoring, and Metrics                                               | - [Spring Boot Actuator - Baeldung](https://www.baeldung.com/spring-boot-actuators) <br> - [YouTube: Monitoring Spring Boot](https://youtu.be/zw3uR0cqU4w)          | [ ]          |
+
+---
+
+### **Final Week: Industry-Ready Projects**
+| **Day** | **Projects**                                                                                     | **Timeframe** | **Resources**                                                                                                                                                       | **Complete** |
+|---------|---------------------------------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
+| **23-27** | **E-commerce Application**: User login, product catalog, order management with database        | 5 Days        | Use Spring Boot, JPA, REST API, and MySQL.                                                                                                                         | [ ]          |
+| **28-30** | **Blogging Platform**: User registration, post creation, comments                              | 3 Days        | Use Spring Boot, Spring Security, Hibernate, and REST API.                                                                                                         | [ ]          |
+| **31-34** | **Microservices-Based Application**: Build a movie ticket booking system with service discovery | 4 Days        | Use Spring Boot, Eureka, and API Gateway.                                                                                                                          | [ ]          |
+
+---
+
+Would you like a **more detailed plan for the projects** or additional guidance on any topic?
